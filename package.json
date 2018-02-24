@@ -1,0 +1,26 @@
+{
+  "name": "serverstuff",
+  "version": "1.0.0",
+  "description": "bamazon_db",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bamazon.js"
+  },
+  "author": "Derrick",
+  "license": "ISC",
+  "dependencies": {
+    "cli": "^1.0.1",
+    "cli-table": "^0.3.1",
+    "express": "^4.16.2",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "inquirer": "^5.1.0",
+    "mock-data": "^1.5.5",
+    "mysql": "^2.15.0",
+    "parse-json": "^4.0.0",
+    "parser": "^0.1.4",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {}
+}
