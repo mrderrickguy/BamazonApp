@@ -45,7 +45,7 @@ function productSearch() {
     .prompt({
       name: "Bamazon Store",
       type: "input",
-      message: "Welcome! Please press enter.",
+      message: "Welcome! Please press enter to start.",
       
       
     })
